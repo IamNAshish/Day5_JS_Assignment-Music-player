@@ -4,37 +4,37 @@ let musics = [
 		id: 1,
 		name: "Aarti_Ki_Jai_Hanuman",
 		artist: "from vedas",
-		audioSrc: "audios/Aarti_Ki_Jai_Hanuman.mp3",
-		imageSrc: "images/Hanumanji.jpg"
+		audioSrc: "music-player - with 5 songs/audios/Aarti_Ki_Jai_Hanuman.mp3",
+		imageSrc: "music-player - with 5 songs/images/Hanumanji.jpg"
 	},
 	{
 		id: 2,
 		name: "Badri",
 		artist: "pawan kalyan",
-		audioSrc: "audios/Badri.mp3",
-		imageSrc: "images/badhri.jpg"
+		audioSrc: "music-player - with 5 songs/audios/Badri.mp3",
+		imageSrc: "music-player - with 5 songs/images/badhri.jpg"
 	},
 	
 	{
 		id: 3,
 		name: "Deva Devam",
 		artist: "MS subhalakshmi",
-		audioSrc: "audios/Deva Devam.mp3",
-		imageSrc: "images/add.jpg"
+		audioSrc: "music-player - with 5 songs/audios/Deva Devam.mp3",
+		imageSrc: "music-player - with 5 songs/images/add.jpg"
 	},
 	{
 		id: 4,
 		name: "Ela Ela",
 		artist: "KK",
-		audioSrc: "audios/Ela Ela.mp3",
-		imageSrc: "images/panja.jpg"
+		audioSrc: "music-player - with 5 songs/audios/Ela Ela.mp3",
+		imageSrc: "music-player - with 5 songs/images/panja.jpg"
 	},
 	{
 		id: 5,
 		name: "Kiraaku",
 		artist: "DSP",
-		audioSrc: "audios/Kiraaku.mp3",
-		imageSrc: "images/add.jpg"
+		audioSrc: "music-player - with 5 songs/audios/Kiraaku.mp3",
+		imageSrc: "music-player - with 5 songs/images/add.jpg"
 	},
 	
 
